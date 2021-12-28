@@ -1,6 +1,8 @@
 # Font Awesome Icons manager 
 vue.js, vuex
+
 2020
+
 demo: https://spadmin.org/apps/fa/
 
 # fa-manager
